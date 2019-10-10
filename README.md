@@ -19,3 +19,7 @@ Next, install the Nerdfont of your choice (I recommend Hack NF, until a Cascadia
 Merge your Windows Terminal config with the file from .config/windowsTerminal.
 
 Now you're done! Congrats!
+
+## Screenshot
+
+![SCREENSHOT](https://raw.githubusercontent.com/bmo-at/public-dotfiles/master/screenshot.png)
