@@ -1,4 +1,4 @@
-![HEADER](https://github.com/bmo-at/public-dotfiles/blob/master/header.png)
+![HEADER](https://i.imgur.com/OZroyWz.png)
 
 ## About
 
@@ -22,4 +22,4 @@ Now you're done! Congrats!
 
 ## Screenshot
 
-![SCREENSHOT](https://github.com/bmo-at/public-dotfiles/blob/master/screenshot.png)
+![SCREENSHOT](https://i.imgur.com/84UQQ2v.png)
