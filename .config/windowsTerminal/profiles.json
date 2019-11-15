@@ -11,7 +11,7 @@
             "source": "Windows.Terminal.Wsl",
             "acrylicOpacity": 0.75,
             "useAcrylic": true,
-            "colorScheme": "One Dark Pro",
+            "colorScheme": "Horizon Dark",
             "commandline": "wsl.exe ~ -d Debian",
             "fontFace": "Hack NF",
             "fontSize": 14,
@@ -24,7 +24,7 @@
             "name": "Windows PowerShell",
             "commandline": "powershell.exe",
             "acrylicOpacity": 0.75,
-            "colorScheme": "One Dark Pro",
+            "colorScheme": "Horizon Dark",
             "useAcrylic": true,
             "fontFace": "Hack NF",
             "fontSize": 14
@@ -35,7 +35,7 @@
             "name": "cmd",
             "commandline": "cmd.exe",
             "acrylicOpacity": 0.75,
-            "colorScheme": "One Dark Pro",
+            "colorScheme": "Horizon Dark",
             "useAcrylic": true,
             "fontFace": "Hack NF",
             "fontSize": 14
@@ -79,6 +79,28 @@
             "red": "#E06C75",
             "white": "#F5F5F5",
             "yellow": "#D19A66"
+        },
+        {
+            "background": "#1C1E26",
+            "black": "#1E2127",
+            "blue": "#26BBD9",
+            "brightBlack": "#BBBBBB",
+            "brightBlue": "#3FC4DE",
+            "brightCyan": "#6BE4E6",
+            "brightGreen": "#3FDAA4",
+            "brightPurple": "#F075B5",
+            "brightRed": "#EC6A88",
+            "brightWhite": "#E6EFFF",
+            "brightYellow": "#FBC3A7",
+            "cyan": "#59E1E3",
+            "foreground": "#ABB2BF",
+            "green": "#29D398",
+            "name": "Horizon Dark",
+            "purple": "#EE64AC",
+            "red": "#E95678",
+            "white": "#F5F5F5",
+            "yellow": "#FAB795",
+            "selectionBackground": "#232530"
         }
     ],
     // Add any keybinding overrides to this array.
